@@ -5,3 +5,7 @@
 
 
 ![alt text](https://github.com/thuandoan274/image-processing-kmeans/blob/master/kitten.jpg)
+
+![alt text](https://github.com/thuandoan274/image-processing-kmeans/blob/master/kitten-optimized.png)
+
+

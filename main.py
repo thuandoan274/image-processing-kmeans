@@ -26,3 +26,6 @@ img5 = img4.reshape((img.shape[0], img.shape[1], img.shape[2]))
 plt.imshow(img5, interpolation="nearest" )
 plt.axis("off")
 plt.show()
+
+import scipy.misc
+scipy.misc.imsave('kitten-optimized.png', img5)
